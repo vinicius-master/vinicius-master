@@ -57,20 +57,23 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Profile%20Stats-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github" alt="GitHub Status">
+  <img src="https://img.shields.io/github/commits-since/vinicius-master/vinicius-master/HEAD?style=for-the-badge&color=blue" alt="Commits">
 </p>
 
 <p align="center">
-  <a href="https://github.com/vinicius-master">
-    <img src="https://img.shields.io/github/followers/vinicius-master?label=Followers&style=social" alt="GitHub Followers">
-  </a>
   <a href="https://github.com/vinicius-master?tab=repositories">
-    <img src="https://img.shields.io/github/repos/vinicius-master?label=Repositories&style=social" alt="GitHub Repos">
+    <img src="https://img.shields.io/badge/Repositórios-Públicos-blue?style=for-the-badge&logo=git" alt="Repositories">
+  </a>
+  <a href="https://github.com/vinicius-master?tab=followers">
+    <img src="https://img.shields.io/badge/Seguidores-Conectados-orange?style=for-the-badge&logo=users" alt="Followers">
   </a>
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vinicius-master&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinicius-master&theme=radical" alt="GitHub Profile Summary Card" />
 </p>
 
 <p align="center">
