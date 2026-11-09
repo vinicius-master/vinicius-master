@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./network-engineer-banner.svg" alt="Network Engineer Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/vinicius-master/vinicius-master/main/network-engineer-banner.svg" alt="Network Engineer Banner" width="100%">
 </p>
 
 # 💫 About Me
@@ -48,11 +48,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-master&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-master&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-master&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-master&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" />
 </p>
 
 ---
