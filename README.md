@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-master&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-master&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -58,5 +58,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinicius-master&icon=0&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vinicius-master&color=blue" alt="Profile Views" />
 </p>
