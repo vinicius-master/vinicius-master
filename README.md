@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Network Engineer Banner" width="100%">
+  <img src="./network-engineer-banner.svg" alt="Network Engineer Banner" width="100%">
 </p>
 
 # 💫 About Me
@@ -48,21 +48,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=vinicius-master&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-master&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vinicius-master&theme=shadow_green&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vinicius-master&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinicius-master&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-master&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
