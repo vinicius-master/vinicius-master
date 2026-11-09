@@ -57,11 +57,20 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-master&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Vinicius's GitHub Stats" />
+  <img src="https://img.shields.io/badge/GitHub-Profile%20Stats-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius-master&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/vinicius-master">
+    <img src="https://img.shields.io/github/followers/vinicius-master?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/vinicius-master?tab=repositories">
+    <img src="https://img.shields.io/github/repos/vinicius-master?label=Repositories&style=social" alt="GitHub Repos">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=vinicius-master&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%">
 </p>
 
 <p align="center">
